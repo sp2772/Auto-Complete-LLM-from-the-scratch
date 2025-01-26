@@ -1,0 +1,21 @@
+download and install visual C++ build tools(Microsoft)
+
+open powershell as administrator:
+
+PS C:\MyEverything\PythonProjects> python -m venv cuda    #for first time creation of venv
+PS C:\MyEverything\PythonProjects> cuda\Scripts\activate
+
+if unauthorized access:
+PS C:\MyEverything\PythonProjects> Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+first time users, run inside (cuda) venv:
+pip3 install matplotlib numpy pylzma ipykernel jupyter
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip3 install ipykernel
+python -m ipykernel install --user --name=cuda --display-name "cuda-gpt"
+
+
+
+Veterans can jump directly to gpt-course folder and:
+(cuda) PS C:\MyEverything\PythonProjects\gpt-course> jupyter notebook
+change gpu to cuda-gpt after opening ipynb and enjoy!
