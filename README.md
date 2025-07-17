@@ -159,7 +159,9 @@ python chatbot.py --prompt "Once upon a time" --temperature 0.8
 
 
 ====================================================================
+
 7. chatbot.py
+   
 ====================================================================
 
 📌 Purpose:
@@ -183,7 +185,9 @@ Bot: I am a model of many words, yet no name to call my own...
 
 
 ====================================================================
+
 8. chatbotTweaked.py
+   
 ====================================================================
 
 📌 Purpose:
@@ -201,7 +205,9 @@ Enhanced version of the chatbot with better UX and modular logic.
 
 
 ====================================================================
+
 9. README.md
+    
 ====================================================================
 
 📌 Purpose:
@@ -209,7 +215,9 @@ Placeholder README file (now replaced with a detailed project overview).
 
 
 ====================================================================
+
 10. instructions_to_open
+    
 ====================================================================
 
 📌 Purpose:
@@ -218,14 +226,18 @@ A simple help text for users unfamiliar with `.ipynb` files.
 📎 Might say something like:
 
 ------------------------------------------------------------
+
 mathematica
+
 ------------------------------------------------------------
 Open .ipynb files in Google Colab or Jupyter Notebook
 
 
 
 ====================================================================
+
 ⚙️ Setup Instructions
+
 ====================================================================
 
 1. Clone Repository:
@@ -253,7 +265,9 @@ python chatbotTweaked.py --prompt "Hello there" --temperature 0.9
 
 
 ====================================================================
+
 🧪 Sample Outputs
+
 ====================================================================
 
 ------------------------------------------------------------
@@ -268,7 +282,9 @@ Bot: I am but a swirl of thoughts stitched together by patterns.
 
 
 ====================================================================
+
 💬 Author
+
 ====================================================================
 
 SP2772  
@@ -281,7 +297,9 @@ code sources: https://github.com/Infatoshi/fcc-intro-to-llms
 
 
 ====================================================================
+
 📜 License
+
 ====================================================================
 
 MIT License - feel free to reuse, modify, and deploy.
@@ -289,7 +307,9 @@ MIT License - feel free to reuse, modify, and deploy.
 
 
 ====================================================================
+
 🌟 Contributions Welcome
+
 ====================================================================
 
 If you want to:
