@@ -10,16 +10,28 @@ Using the GPT multi Head attention architecture. Trained on openworldcorpus
 ## 📁 Repository Structure
 
 Auto_Complete_LLM/
-└── Auto-Complete-LLM-from-the-scratch-main/
+
+
+└── Auto-Complete-LLM-from-the-scratch-main
+
     ├── README.md
+    
     ├── argparsing.py
+    
     ├── bigram.ipynb
+    
     ├── chatbot.py
+    
     ├── chatbotTweaked.py
+    
     ├── data-process.py
+    
     ├── gpt-v1.ipynb
+    
     ├── gpt-v1FurtherTweaked.ipynb
+    
     ├── gpt-v1modified.ipynb
+    
     └── instructions_to_open
 
 
