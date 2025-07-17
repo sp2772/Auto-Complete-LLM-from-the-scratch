@@ -3,6 +3,12 @@
 
 This repository demonstrates the step-by-step construction, training, and refinement of a **GPT-style Language Model** for auto-completion tasks, along with tools for data preprocessing, CLI interaction, and chatbot deployment.
 
+source: https://www.youtube.com/watch?v=UU1WVnMk4E8
+
+https://www.freecodecamp.org 
+
+Course developed by ‪@elliotarledge‬ code sources: https://github.com/Infatoshi/fcc-intro-to-llms
+
 Using the GPT multi Head attention architecture. Trained on openworldcorpus 
 
 ---
